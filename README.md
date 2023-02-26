@@ -1,5 +1,5 @@
 # Inventory
-This project represents a stock management system for a shoe store. It is a demonstration of a user-controlled program which
+This program is a stock management system for a shoe store. It is a demonstration of a user-controlled program which
 involves OOP and functions.
 
 ## Table of Contents
